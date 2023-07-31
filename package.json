@@ -1,5 +1,5 @@
 {
-  "name": "electron-quick-start",
+  "name": "web2desktop-default",
   "version": "1.0.0",
   "description": "A minimal Electron application",
   "main": "main.js",
@@ -10,8 +10,12 @@
   "keywords": [
     "Electron"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "build": {
+    "appId": "org.web2desktop.default",
+    "productName": "⛔ web2desktop error ⛔"
+  }
+  "author": "romw314",
+  "license": "UNLICENSED",
   "devDependencies": {
     "electron": "^25.3.2"
   }
