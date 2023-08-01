@@ -13,7 +13,7 @@
   "build": {
     "appId": "org.web2desktop.default",
     "productName": "\u26d4 web2desktop error \u26d4"
-  }
+  },
   "author": "romw314",
   "license": "UNLICENSED",
   "devDependencies": {
