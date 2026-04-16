@@ -17,6 +17,6 @@
   "author": "romw314",
   "license": "UNLICENSED",
   "devDependencies": {
-    "electron": "^40.1.0"
+    "electron": "^41.2.1"
   }
 }
